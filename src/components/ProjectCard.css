@@ -1,0 +1,18 @@
+.box{
+    border: 5px solid #000000; /* Color y grosor del borde */
+    padding: 16px; /* Espacio interior */
+    margin: 20px; /* Espacio exterior */
+    border-radius: 8px; /* Esquinas redondeadas */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+    background-color: #e6f0ff; /* Color de fondo */
+}
+.ProjectLogo {
+    width: 80px;
+    height: 80px;
+}
+.ProjectH{
+    font-weight: 500;
+}
+.ProjectP {
+    white-space: pre-wrap;
+}

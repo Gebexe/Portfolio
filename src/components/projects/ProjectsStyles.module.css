@@ -21,7 +21,11 @@
     transform: scale(1.05);
   }
 }
-
+.projectTitle {
+  font-size: 50px;
+  font-weight: 900;
+  margin-bottom: 50px;
+}
 .projectsContainer {
   display: flex;
   flex-direction: column;
