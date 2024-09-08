@@ -23,7 +23,7 @@ function About() {
         <p className={styles.description}>
         {t('contenido')}
         </p>
-        <a href={i18n.language === 'es' ? "https://drive.google.com/file/d/1PfJ2lmltVWDYxDtR330cp-FxpEnSIten/view?usp=sharing" : "https://drive.google.com/file/d/19YQhZ4IsOuFaBkHL7s5oO-vQ8RO97ejW/view?usp=drive_link"} target='_blank' rel="noreferrer">
+        <a href={i18n.language === 'es' ? "https://drive.google.com/file/d/1w2mxDXLmHxvutwfuLjpkBuPP8JujpZWV/view?usp=sharing" : "https://drive.google.com/file/d/1wqQng1284nRa88CNFW9KF7I1UwQqimTA/view?usp=drive_link"} target='_blank' rel="noreferrer">
           <button className="hover">CV</button>
 
         </a>
