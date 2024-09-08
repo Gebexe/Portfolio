@@ -18,7 +18,7 @@ function About() {
           Gabriel
           <br />
           Palacios
-        <h2>Frontend Developer</h2>
+        <h2>{t('developer')}</h2>
         </h1>
         <p className={styles.description}>
         {t('contenido')}
