@@ -12,9 +12,8 @@ export function Projects() {
         <ProjectCard
           src={logo}
           link="https://apiscoreboards.vercel.app/"
-          h3="Api Scoreboard para OBS"
-          p={`Overlay de scores para juegos de pelea para ser utilizado en apps de streaming
-            como OBS se debe utilizar filtro de color #0056b3 para la transparencia`}
+          h3={t('project1Title')}
+          p={t('project1Descript')}
         />
         
       </div>

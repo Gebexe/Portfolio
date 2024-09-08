@@ -3,8 +3,9 @@
     padding: 16px; /* Espacio interior */
     margin: 20px; /* Espacio exterior */
     border-radius: 8px; /* Esquinas redondeadas */
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+    box-shadow: 4px 4px 8px rgba(153, 74, 74, 0.2); /* Sombra */
     background-color: #e6f0ff; /* Color de fondo */
+    width: 50%;
 }
 .ProjectLogo {
     width: 80px;
