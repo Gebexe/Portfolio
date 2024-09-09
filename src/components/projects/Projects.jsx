@@ -1,5 +1,5 @@
 import styles from './ProjectsStyles.module.css';
-import logo from '../../assets/OBS_Studio_logo.png'
+import logo from '../../assets/playlogo.png'
 import ProjectCard from '../ProjectCard';
 import { useTranslation } from 'react-i18next';
 

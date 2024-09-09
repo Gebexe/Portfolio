@@ -45,16 +45,16 @@ export const Navigation = () => {
         <div className="navbar-dropdown">
           <a className="navbar-item" href="https://www.facebook.com/gaboxks.palacios/" target='_blank' rel="noreferrer">
             Facebook&nbsp;&nbsp;       
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="any"/>
+           {/* <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="any"/> */}
           </a>
           <a className="navbar-item" href="https://www.linkedin.com/in/gabriel-exequiel-palacios-rodr%C3%ADguez-a07a14218/" target='_blank' rel="noreferrer">
             Linkedin&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"  alt="any"/>
+    {/* <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"  alt="any"/> */}
           </a>
           <a className="navbar-item" href="https://github.com/Gebexe" target='_blank' rel="noreferrer">
           Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
           
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub logo"/>
+   {/*  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub logo"/> */}
           </a>
         </div>
       </div>
